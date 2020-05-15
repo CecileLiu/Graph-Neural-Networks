@@ -1,0 +1,18 @@
+# vscode
+.vscode
+
+# Mac
+.DS_Store
+._.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# python
+*.pyc
+*.pro
+*~
+__pycache__
+
+# video
+*.mp4
